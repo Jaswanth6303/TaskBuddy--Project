@@ -17,3 +17,4 @@ TaskBuddy is a powerful and intuitive task management application built using Re
 - **Deleting Tasks**: Click the trash icon next to a task to delete it.
 - **Clearing All Tasks**: Click the "Clear All Tasks" button to remove all tasks.
 - **Progress Tracker**: View the progress of your tasks in the progress tracker.
+ https://github.com/Jaswanth6303/TaskBuddy--Project/blob/ff6d4e6359a5dfee3b90d1ff9bbae5c224d0fee6/Screenshot%202025-05-24%20164111.png
